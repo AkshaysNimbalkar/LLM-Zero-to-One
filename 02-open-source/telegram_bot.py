@@ -1,3 +1,5 @@
+#!pip install python-telegram-bot==13.7
+
 import logging
 import time
 from telegram import Update
