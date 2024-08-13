@@ -26,3 +26,8 @@ Evaluation of prompt and LLM:
         * llm_judge(question, answers_llm) - sometimes we dont have original answers
 
     2. Online Evaluation (after deploying): A/B test, experiments
+        - user feedback +1 for relevant and -1 for not relevant
+
+    ![grafana-dashboard](app/grafana_llm_dashboard.png)
+    
+    
